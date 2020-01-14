@@ -1,0 +1,42 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin-top:10px;
+}
+
+.icon{
+    width: 18px;
+    height: 18px;
+}
+
+section{
+    margin-top: 12%;
+}
+
+.zone{
+    width: 475px;
+    border-radius: 15px;
+    height: 35px;
+}
+
+nav{
+    margin-left: 12px;
+}
+
+footer{
+    background-color: rgb(243, 235, 235);
+    margin-top:10%;
+    font-size: 13px;
+    margin-left: -23px;
+    line-height: 40px;
+    width: 103%;
+}
+
+span{
+    margin-left: 50px;
+}
+
+.end{
+    margin-top:25px;
+    width: 100%;
+}
